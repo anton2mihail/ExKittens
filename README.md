@@ -2,7 +2,9 @@
 A simple chrome extension that kittenifies all
 
 ## What it does
+It simply replaces all images in every webpage with images of kittens
 
+## How to use it
 This chrome extension can be added from the local machine using the developer option in chrome to
 ```
 Load Unpacked
